@@ -7,7 +7,7 @@
 <line x1="26" y1="81" x2="306" y2="81" stroke="#26262a"/>
 <text x="26" y="104" class="o b">Repos</text>
 <text x="150" y="104" class="m">:</text>
-<text x="164" y="104">3</text>
+<text x="164" y="104">4</text>
 <text x="26" y="124" class="o b">Stars</text>
 <text x="150" y="124" class="m">:</text>
 <text x="164" y="124">0</text>
@@ -29,23 +29,26 @@
 <text x="340" y="74" class="o b">top languages</text>
 <line x1="340" y1="81" x2="854" y2="81" stroke="#26262a"/>
 <text x="340" y="104">TypeScript</text>
-<text x="444" y="104" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o">██████████████████████</tspan><tspan class="m"></tspan></text>
-<text x="631" y="104" class="m">98.2%</text>
-<text x="340" y="124">Python</text>
-<text x="444" y="124" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o"></tspan><tspan class="m">░░░░░░░░░░░░░░░░░░░░░░</tspan></text>
-<text x="631" y="124" class="m"> 0.8%</text>
+<text x="444" y="104" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o">███████████████████</tspan><tspan class="m">░░░</tspan></text>
+<text x="631" y="104" class="m">88.0%</text>
+<text x="340" y="124">Astro</text>
+<text x="444" y="124" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o">██</tspan><tspan class="m">░░░░░░░░░░░░░░░░░░░░</tspan></text>
+<text x="631" y="124" class="m"> 9.3%</text>
 <text x="340" y="144">CSS</text>
 <text x="444" y="144" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o"></tspan><tspan class="m">░░░░░░░░░░░░░░░░░░░░░░</tspan></text>
-<text x="631" y="144" class="m"> 0.8%</text>
-<text x="340" y="164">HTML</text>
+<text x="631" y="144" class="m"> 1.8%</text>
+<text x="340" y="164">Python</text>
 <text x="444" y="164" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o"></tspan><tspan class="m">░░░░░░░░░░░░░░░░░░░░░░</tspan></text>
-<text x="631" y="164" class="m"> 0.2%</text>
-<text x="340" y="184">JavaScript</text>
+<text x="631" y="164" class="m"> 0.7%</text>
+<text x="340" y="184">HTML</text>
 <text x="444" y="184" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o"></tspan><tspan class="m">░░░░░░░░░░░░░░░░░░░░░░</tspan></text>
-<text x="631" y="184" class="m"> 0.1%</text>
+<text x="631" y="184" class="m"> 0.2%</text>
+<text x="340" y="204">JavaScript</text>
+<text x="444" y="204" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o"></tspan><tspan class="m">░░░░░░░░░░░░░░░░░░░░░░</tspan></text>
+<text x="631" y="204" class="m"> 0.1%</text>
 <text x="26" y="266" class="o b">contributions</text>
 <line x1="26" y1="273" x2="854" y2="273" stroke="#26262a"/>
-<text x="854" y="266" text-anchor="end" class="m">10 in the last year</text>
+<text x="854" y="266" text-anchor="end" class="m">11 in the last year</text>
 <rect x="26.0" y="286.0" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="26.0" y="301.6" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="26.0" y="317.2" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
@@ -402,20 +405,14 @@
 <rect x="807.1" y="332.9" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="807.1" y="348.5" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="807.1" y="364.1" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="807.1" y="379.7" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
+<rect x="807.1" y="379.7" width="12.6" height="12.6" rx="1.5" fill="#4a2f26"/>
 <rect x="822.8" y="286.0" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="822.8" y="301.6" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="822.8" y="317.2" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="822.8" y="332.9" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
+<rect x="822.8" y="317.2" width="12.6" height="12.6" rx="1.5" fill="#7d4b38"/>
+<rect x="822.8" y="332.9" width="12.6" height="12.6" rx="1.5" fill="#D97757"/>
 <rect x="822.8" y="348.5" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="822.8" y="364.1" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="822.8" y="379.7" width="12.6" height="12.6" rx="1.5" fill="#4a2f26"/>
 <rect x="838.4" y="286.0" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="838.4" y="301.6" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="838.4" y="317.2" width="12.6" height="12.6" rx="1.5" fill="#7d4b38"/>
-<rect x="838.4" y="332.9" width="12.6" height="12.6" rx="1.5" fill="#D97757"/>
-<rect x="838.4" y="348.5" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="838.4" y="364.1" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="838.4" y="379.7" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <text x="26" y="413" class="m"># auto-updated by github actions</text>
 </svg>
