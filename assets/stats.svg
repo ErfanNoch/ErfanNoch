@@ -398,27 +398,21 @@
 <rect x="791.5" y="332.9" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="791.5" y="348.5" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="791.5" y="364.1" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="791.5" y="379.7" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
+<rect x="791.5" y="379.7" width="12.6" height="12.6" rx="1.5" fill="#4a2f26"/>
 <rect x="807.1" y="286.0" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="807.1" y="301.6" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="807.1" y="317.2" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="807.1" y="332.9" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
+<rect x="807.1" y="317.2" width="12.6" height="12.6" rx="1.5" fill="#7d4b38"/>
+<rect x="807.1" y="332.9" width="12.6" height="12.6" rx="1.5" fill="#D97757"/>
 <rect x="807.1" y="348.5" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="807.1" y="364.1" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="807.1" y="379.7" width="12.6" height="12.6" rx="1.5" fill="#4a2f26"/>
 <rect x="822.8" y="286.0" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="822.8" y="301.6" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="822.8" y="317.2" width="12.6" height="12.6" rx="1.5" fill="#7d4b38"/>
-<rect x="822.8" y="332.9" width="12.6" height="12.6" rx="1.5" fill="#D97757"/>
+<rect x="822.8" y="317.2" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
+<rect x="822.8" y="332.9" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="822.8" y="348.5" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="822.8" y="364.1" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="822.8" y="379.7" width="12.6" height="12.6" rx="1.5" fill="#4a2f26"/>
+<rect x="822.8" y="379.7" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <rect x="838.4" y="286.0" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="838.4" y="301.6" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="838.4" y="317.2" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="838.4" y="332.9" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="838.4" y="348.5" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="838.4" y="364.1" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
-<rect x="838.4" y="379.7" width="12.6" height="12.6" rx="1.5" fill="#17171a"/>
 <text x="26" y="413" class="m"># auto-updated by github actions</text>
 </svg>
