@@ -7,7 +7,7 @@
 <line x1="20" y1="75" x2="400" y2="75" stroke="#26262a"/>
 <text x="20" y="98" class="o b">Repos</text>
 <text x="144" y="98" class="m">:</text>
-<text x="158" y="98">4</text>
+<text x="158" y="98">3</text>
 <text x="20" y="118" class="o b">Stars</text>
 <text x="144" y="118" class="m">:</text>
 <text x="158" y="118">0</text>
@@ -29,26 +29,26 @@
 <text x="20" y="256" class="o b">top languages</text>
 <line x1="20" y1="263" x2="400" y2="263" stroke="#26262a"/>
 <text x="20" y="286">TypeScript</text>
-<text x="124" y="286" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o">███████████████████</tspan><tspan class="m">░░░</tspan></text>
-<text x="311" y="286" class="m">88.0%</text>
+<text x="124" y="286" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o">███████████████</tspan><tspan class="m">░░░░░░░</tspan></text>
+<text x="311" y="286" class="m">68.4%</text>
 <text x="20" y="306">Astro</text>
-<text x="124" y="306" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o">██</tspan><tspan class="m">░░░░░░░░░░░░░░░░░░░░</tspan></text>
-<text x="311" y="306" class="m"> 9.3%</text>
+<text x="124" y="306" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o">██████</tspan><tspan class="m">░░░░░░░░░░░░░░░░</tspan></text>
+<text x="311" y="306" class="m">25.8%</text>
 <text x="20" y="326">CSS</text>
-<text x="124" y="326" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o"></tspan><tspan class="m">░░░░░░░░░░░░░░░░░░░░░░</tspan></text>
-<text x="311" y="326" class="m"> 1.8%</text>
+<text x="124" y="326" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o">█</tspan><tspan class="m">░░░░░░░░░░░░░░░░░░░░░</tspan></text>
+<text x="311" y="326" class="m"> 3.2%</text>
 <text x="20" y="346">Python</text>
 <text x="124" y="346" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o"></tspan><tspan class="m">░░░░░░░░░░░░░░░░░░░░░░</tspan></text>
-<text x="311" y="346" class="m"> 0.7%</text>
+<text x="311" y="346" class="m"> 1.9%</text>
 <text x="20" y="366">HTML</text>
 <text x="124" y="366" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o"></tspan><tspan class="m">░░░░░░░░░░░░░░░░░░░░░░</tspan></text>
-<text x="311" y="366" class="m"> 0.2%</text>
+<text x="311" y="366" class="m"> 0.5%</text>
 <text x="20" y="386">JavaScript</text>
 <text x="124" y="386" textLength="173" lengthAdjust="spacingAndGlyphs"><tspan class="o"></tspan><tspan class="m">░░░░░░░░░░░░░░░░░░░░░░</tspan></text>
 <text x="311" y="386" class="m"> 0.1%</text>
 <text x="20" y="428" class="o b">contributions</text>
 <line x1="20" y1="435" x2="400" y2="435" stroke="#26262a"/>
-<text x="400" y="428" text-anchor="end" class="m">11 in the last year</text>
+<text x="400" y="428" text-anchor="end" class="m">10 in the last year</text>
 <rect x="20.0" y="448.0" width="10.6" height="10.6" rx="1.5" fill="#17171a"/>
 <rect x="20.0" y="461.6" width="10.6" height="10.6" rx="1.5" fill="#17171a"/>
 <rect x="20.0" y="475.1" width="10.6" height="10.6" rx="1.5" fill="#17171a"/>
@@ -240,5 +240,6 @@
 <rect x="372.9" y="529.4" width="10.6" height="10.6" rx="1.5" fill="#17171a"/>
 <rect x="386.4" y="448.0" width="10.6" height="10.6" rx="1.5" fill="#17171a"/>
 <rect x="386.4" y="461.6" width="10.6" height="10.6" rx="1.5" fill="#17171a"/>
+<rect x="386.4" y="475.1" width="10.6" height="10.6" rx="1.5" fill="#17171a"/>
 <text x="20" y="561" class="m"># auto-updated by github actions</text>
 </svg>
